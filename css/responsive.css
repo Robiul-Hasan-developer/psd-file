@@ -1,0 +1,169 @@
+/* Teblet Layout*/
+
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+
+    .search_area input {
+        width: 85%;
+    }
+
+    .social_area {
+        width: 50%;
+    }
+
+    .mean-container .mean-bar {
+        padding: 0px 0;
+        min-height: auto;
+    }
+
+    .inner_hero_area h1 {
+        font-size: 45px;
+    }
+
+    .inner_hero_area p {
+        font-size: 12px;
+    }
+
+    .class_for_all {
+        width: 98%;
+    }
+
+    .child_service .image_service {
+        width: 10%;
+    }
+
+    .child_service .text_service {
+        width: 88%;
+    }
+
+    .class_for_all h2 {
+        text-align: center;
+    }
+
+    .class_for_all {
+        margin: 0;
+    }
+
+    .child_client a {
+        margin-bottom: 5px;
+    }
+
+    .child_footer.class_for_margin {
+        width: 80%;
+    }
+
+    .child_footer {
+        width: 80%;
+    }
+
+
+
+
+    /* iphone X XS iOS 12   */
+
+    .mini_menu {
+        width: 103%;
+        text-align: center;
+        display: block;
+    }
+
+    .search_area {
+        float: none;
+        width: 53%;
+        margin: 0 auto;
+    }
+
+    .logo_area {
+        float: none;
+        width: 250px;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+
+    .social_area {
+        width: 100%;
+    }
+
+    .social_area {
+        padding-top: 0px;
+    }
+
+    .inner_hero_area h1 {
+        font-size: 26px;
+        text-align: center;
+        line-height: 1.5em;
+    }
+
+    #work_area {
+        padding-top: 0;
+    }
+
+    .class_for_all h2 {
+        margin: 15px;
+
+    }
+
+
+    .child_client a {
+        margin-bottom: 0px;
+    }
+
+    #footer_area {
+        padding: 2px 0 0;
+    }
+
+    .child_footer.class_for_margin {
+        margin: 0;
+    }
+
+    .child_footer h3 {
+        padding-top: 10px;
+        border-top: 5px solid #666;
+    }
+
+    .left_copyright_area {
+        width: 100%;
+        text-align: left;
+    }
+
+    .right_copyright_area {
+        float: left;
+        width: 100%;
+        text-align: left;
+    }
+
+    #copyright_area {
+        padding: 1px 0;
+    }
+
+    .inner_copyright_area p {
+        margin: 5px;
+    }
+
+    .child_footer p {
+        text-align: justify;
+    }
+
+    .child_service .text_service h3 {
+        margin-bottom: -10px;
+    }
+
+    .social_area ul li {
+        margin-left: 10px;
+    }
+
+    .social_area ul {
+        text-align: center;
+    }
+
+    .mini_menu ul li {
+        margin-right: 5px;
+    }
+
+    .mini_menu ul li::after {
+        top: 6px;
+        right: -5px;
+    }
+
+
+
+}
